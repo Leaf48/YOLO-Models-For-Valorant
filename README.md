@@ -6,7 +6,7 @@
 krunker.pt was trained in YoloV5s and never releases again.
 
 ## Valorant-bot
-Valorant-bot was trained for Training Ground(Valorant) and never releases again.
+Valorant-bot was trained for Training Ground(Valorant) and it never releases again.
 
 ## Valorant-v
 Valorant-v.pt was trained in YoloV5s.
