@@ -18,4 +18,4 @@ It's slower than **Valorant-n**. But It's enought to kill enemy.
 Valorant-n.pt was trained in YoloV5n.
 It's very quickly to response. But sometimes it doesn't response to enemy.
 
-[![](https://c.tenor.com/l78fTWemEpwAAAAC/wide-jett-walking.gif)](https://youtube.com)
+[![](https://c.tenor.com/J1qnTCSScyAAAAAC/jett-dash-updraft.gif)](https://youtube.com)
