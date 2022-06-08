@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/leaf48/YOLOv5-Models-For-Valorant/total?style=for-the-badge)
+
 # YOLOv5-Models
 
 [![](https://c.tenor.com/T-WPIxw94EgAAAAC/jumping-jett-jett.gif)](https://youtube.com)
