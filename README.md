@@ -1,4 +1,9 @@
-![GitHub all releases](https://img.shields.io/github/downloads/leaf48/YOLOv5-Models-For-Valorant/total?style=for-the-badge)
+![](https://img.shields.io/github/downloads/leaf48/YOLOv5-Models-For-Valorant/total?style=for-the-badge)
+
+# We are looking for who is able to contribute the datasets.
+# If you can, I would like you to be label only "enemy.", not need "teammate" or something.
+
+![](https://media.tenor.co/images/72b910ef8b65ccdf1b327a5952d1b93a/raw)
 
 # YOLOv5-Models
 
