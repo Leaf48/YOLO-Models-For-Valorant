@@ -2,7 +2,7 @@
 
 ## We are looking for who is able to contribute the datasets.
 ## If you can, I would like you to be label only "enemy.", not need "teammate" or something.
-## And Please label "enemy" from the knees from the top of the head.
+## And Please label "enemy" from the knees to the top of the head.
 
 ![](https://media.tenor.co/images/72b910ef8b65ccdf1b327a5952d1b93a/raw)
 
