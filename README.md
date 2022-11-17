@@ -11,18 +11,19 @@
 [![](https://c.tenor.com/T-WPIxw94EgAAAAC/jumping-jett-jett.gif)](https://youtube.com)
 
 ### Krunker
-krunker.pt was trained in YoloV5s and never releases again.
+#### Never releases again.
+krunker.pt
 
 ### Valorant-bot
-Valorant-bot was trained for Training Ground(Valorant) and it never releases again.
+### Never releases again.
+It was trained in Yolov5s for Bots.
 
 ### Valorant-v
-Valorant-v.pt was trained in YoloV5s.
-I highly recommend that you use **valorant-v8.pt**.
-It's slower than **Valorant-n**. But It's enough to kill enemy.
+It was trained in Yolov5s for players.
+Note: You should use the newest version.
 
 ### Valorant-n
-Valorant-n.pt was trained in YoloV5n.
-It's very quick to respond. But sometimes it doesn't respond to enemies.
+It was trained in Yolov5n for players.
+Note: You shouldn't use this unless you're using low spec pc.
 
 [![](https://c.tenor.com/T-WPIxw94EgAAAAC/jumping-jett-jett.gif)](https://youtube.com)
