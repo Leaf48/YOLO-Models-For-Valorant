@@ -8,7 +8,7 @@ And Please label "enemy" from the knees to the top of the head.
 
 ![](https://media.tenor.co/images/72b910ef8b65ccdf1b327a5952d1b93a/raw)
 
-# YOLOv5-Models
+# We Are Supporting Yolov5 and Yolov7
 
 [![](https://c.tenor.com/T-WPIxw94EgAAAAC/jumping-jett-jett.gif)](https://youtube.com)
 
