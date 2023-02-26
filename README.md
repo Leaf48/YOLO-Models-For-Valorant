@@ -27,5 +27,3 @@ Note: You should use the newest version.
 ### Valorant-n
 It was trained in Yolov5n for players.
 Note: You shouldn't use this unless you're using low spec pc.
-
-[![](https://c.tenor.com/T-WPIxw94EgAAAAC/jumping-jett-jett.gif)](https://youtube.com)
