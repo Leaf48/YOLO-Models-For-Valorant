@@ -11,19 +11,3 @@ And Please label "enemy" from the knees to the top of the head.
 # We Are Supporting Yolov5 and Yolov7
 
 [![](https://c.tenor.com/T-WPIxw94EgAAAAC/jumping-jett-jett.gif)](https://youtube.com)
-
-### Krunker
-#### Never releases again.
-krunker.pt
-
-### Valorant-bot
-### Never releases again.
-It was trained in Yolov5s for Bots.
-
-### Valorant-v
-It was trained in Yolov5s for players.
-Note: You should use the newest version.
-
-### Valorant-n
-It was trained in Yolov5n for players.
-Note: You shouldn't use this unless you're using low spec pc.
