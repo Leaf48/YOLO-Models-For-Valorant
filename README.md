@@ -8,4 +8,7 @@
 
 # Are you interested in this project? Check out [here](https://universe.roboflow.com/john-mackelel-uugn0/valorant-ybiu9)
 
+# Are you interested in other projects?
+- [Apex Legends](https://github.com/Leaf48/YOLO-Models-For-ApexLegends)
+
 [![Star History Chart](https://api.star-history.com/svg?repos=Leaf48/YOLOv5-7-Models-For-Valorant&type=Timeline)](https://star-history.com/#Leaf48/YOLOv5-7-Models-For-Valorant&Timeline)
