@@ -6,7 +6,8 @@
 | Game      | Valorant | Valorant/Krunker |Valorant |
 
 
-# Are you interested in other projects?
+
+### Are you interested in other projects?
 - [Apex Legends](https://github.com/Leaf48/YOLO-Models-For-ApexLegends)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Leaf48/YOLOv5-7-Models-For-Valorant&type=Timeline)](https://star-history.com/#Leaf48/YOLOv5-7-Models-For-Valorant&Timeline)
