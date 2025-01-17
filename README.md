@@ -3,10 +3,8 @@
 |:---------:|:---------:|:---------------:|:---------------:|
 | Supported |    ✅    |  ✅             | ✅             |
 | Version   |    v3     |   v11           |   v1          |
-| TensorRT  |  ❌      |       ✅        |       ❌        |
 | Game      | Valorant | Valorant/Krunker |Valorant |
 
-# Are you interested in this project? Check out [here](https://universe.roboflow.com/john-mackelel-uugn0/valorant-ybiu9)
 
 # Are you interested in other projects?
 - [Apex Legends](https://github.com/Leaf48/YOLO-Models-For-ApexLegends)
